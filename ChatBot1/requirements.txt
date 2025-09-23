@@ -1,0 +1,6 @@
+chatterbot
+sqlalchemy
+pytz
+spacy
+chatterbot-corpus
+PyYAML
